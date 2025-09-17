@@ -3,6 +3,10 @@
 
 <br />
 
+###[수업중 화면공유 링크](rtmp://a.rtmp.youtube.com/live2)
+
+<br />
+
 # 동보초등학교 25년도 2학기
 
 <br />
