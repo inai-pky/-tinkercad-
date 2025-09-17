@@ -3,7 +3,7 @@
 
 <br />
 
-###[수업중 화면공유 링크](rtmp://a.rtmp.youtube.com/live2)
+### [수업중 화면공유 링크](rtmp://a.rtmp.youtube.com/live2)
 
 <br />
 
