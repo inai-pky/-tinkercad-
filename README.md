@@ -26,3 +26,5 @@
 # 루미너스
 ### [팅커캐드 신흥중 루미너스 링크](https://www.tinkercad.com/joinclass/5BKIGQSMK)
 ### 링크에 접속하여 선생님에게 본인코드 전달받아 입력하세요
+### [신흥중 로고 이미지](https://drive.google.com/file/d/1T8eeTBTM4GJqJTNuhAOeqdp8WpwlmPSa/view?usp=drive_link)
+
