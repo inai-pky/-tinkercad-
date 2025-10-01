@@ -3,8 +3,7 @@
 
 <br />
 
-### [수업중 화면공유 링크](rtmp://a.rtmp.youtube.com/live2)
-
+### [수업중 화면공유 링크](https://youtube.com/live/s5XNwYffoak?feature=share)
 <br />
 
 # 동보초등학교 25년도 2학기
